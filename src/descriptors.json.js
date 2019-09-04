@@ -35,7 +35,6 @@ export default {
     },
     Emotionally: {
       __description: " ",
-      Self: null,
       "Feeling overburdened": null,
       Irritability: null,
       Frustration: null
@@ -118,42 +117,3 @@ export default {
     Need: {}
   }
 };
-
-/*
-		this.descriptors = [
-			{
-				name: 'Appearance',
-				children: [
-					{name: 'Self',           children: []},
-					{name: 'Others Private', children: []},
-					{name: 'Others Public',  children: []},
-				]
-			},
-			{
-				name: 'Eating/Drinking',
-				children: [
-					{name: 'Inability to Swallow', children: [
-						{name: 'Dry Mouth', children: []},
-						{name: 'Fluids',    children: []},
-						{name: 'Solids',    children: []},
-					]},
-					{name: 'Loss of Appetite',     children: []},
-					{name: 'Impaired Taste/Smell', children: []},
-					{name: 'Inability to Chew',    children: []},
-					{name: 'Embarassment',         children: []},
-					{name: 'Voluntary/involuntary swallowing', children: []},
-				]
-			},
-			{
-				name: 'Fatigue',
-				children: [
-					{name: 'Physically Exhausted', children: [
-						{name: 'Unable to do everyday stuff', children: []},
-						{name: 'Unable to do gentle exercise',    children: []},
-						{name: 'Unable to do strenuous exercise',    children: []},
-					]},
-					{name: 'Mentally Exhausted',     children: []},
-					{name: 'Emotionally Exhausted', children: []},
-				]
-			},
-			];*/
